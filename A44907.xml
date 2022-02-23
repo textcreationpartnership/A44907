@@ -1,0 +1,1026 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An explication of the diall sett up in the Kings garden at London, an. 1669 in which very many sorts of dyalls are conteined : by which, besides the houres of all kinds diversly expressed, many things also belonging to geography, astrology, and astronomy, are by the sunnes shadow made visible to the eye, amongst which very many dialls, especially the most curious, are new inventions, hitherto divulged by none : all these particulars are shortly, yet clearly sett forth for the common good / by the Reverend Father Francis Hall, otherwise Line, of the Society of Jesus, professor of mathematicks.</title>
+            <author>Line, Francis, 1595-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44907</idno>
+            <idno type="STC">Wing H332</idno>
+            <idno type="STC">ESTC R15838</idno>
+            <idno type="EEBO-CITATION">13031559</idno>
+            <idno type="OCLC">ocm 13031559</idno>
+            <idno type="VID">96750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96750)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 740:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An explication of the diall sett up in the Kings garden at London, an. 1669 in which very many sorts of dyalls are conteined : by which, besides the houres of all kinds diversly expressed, many things also belonging to geography, astrology, and astronomy, are by the sunnes shadow made visible to the eye, amongst which very many dialls, especially the most curious, are new inventions, hitherto divulged by none : all these particulars are shortly, yet clearly sett forth for the common good / by the Reverend Father Francis Hall, otherwise Line, of the Society of Jesus, professor of mathematicks.</title>
+                  <author>Line, Francis, 1595-1675.</author>
+               </titleStmt>
+               <extent>[2], 59, [1] p., 1 leaf of folded plates : ill., ports.  </extent>
+               <publicationStmt>
+                  <publisher>By Guillaume Henry Streel,</publisher>
+                  <pubPlace>Printed at Liege :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dialing --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96750:1"/>
+            <pb facs="tcp:96750:1"/>
+            <p>AN EXPLICATION OF THE DIALL SETT UP IN THE KINGS GARDEN AT LONDON, an. 1669.</p>
+            <p>IN WHICH VERY MANY SORTS OF Dyalls are conteined; by which, beſides the Hou<g ref="char:EOLhyphen"/>res of all kinds diversly expreſſed, many things al<g ref="char:EOLhyphen"/>ſo belonging to Geography, Aſtrology, and Aſ<g ref="char:EOLhyphen"/>tronomy, are by the Sunnes shadow made viſible to the eye.</p>
+            <p>
+               <hi>AMONGST WHICH, VERY MANY DIALLS, ESPECIALLY the moſt curious, are new inventions, hitherto divulged be None.</hi>
+            </p>
+            <p>ALL THESE PARTICULARS ARE SHORTLY, yet clearly ſett forth for the common good, <hi>By the Reverend Father FRANCIS HALL, otherwiſe LINE, of the Society of JESUS, Profeſſor of Mathematicks.</hi>
+            </p>
+            <p>PRINTED AT LIEGE, By GUILLAUME HENRY STREEL, in the Yeare of our lord 1673.</p>
+            <p>
+               <hi>Superiorum Permiſſis.</hi>
+            </p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:96750:2"/>
+            <pb facs="tcp:96750:2"/>
+            <p>
+               <figure>
+                  <figDesc>pyramidical dial</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="introduction">
+               <pb facs="tcp:96750:3"/>
+               <pb n="1" facs="tcp:96750:3"/>
+               <head>
+                  <hi>A BRIEF EXPLICATION</hi> OF THE PYRAMIDICALL DIALL ſet up in his Majeſtey Private Garden at White hall July 24. 1669.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE Dyall being placed upona Pillar by his Majeſtey order, in the Privy Garden: it was intimated unto me by divers Worthy per<g ref="char:EOLhyphen"/>ſons as à thing very Expedient, that an Ex<g ref="char:EOLhyphen"/>plication should be published, of the uſe, of the ſeverall Dyalls there contayned. For al<g ref="char:EOLhyphen"/>though to divers of them were added à verſe or two Explicating how the houre, &amp;c. was to be found by them yet in regard many of them were new, and not te be found in any Author: and others belonging to Aſtronomy, Coſ<g ref="char:EOLhyphen"/>mography, &amp;c. not ſoe eaſily conceaved by all, they judged very Expedient à Declaration there of should be ſett forth whereby ſuch as came dayly to ſee it, might receave more ſatisfaction.</p>
+               <p>Heere upon, havinge ſoone after the ſetting up of the Diall, left London, and being arrived at my lodging in the Coun<g ref="char:EOLhyphen"/>try, I began the ſayd Explication: and being much deſirous to adde yet ſome further ornament to the Diall already placed, I began the making of fowre water Dyalls to be placed at the 4.
+<pb n="2" facs="tcp:96750:4"/>Corners of the Pyramidicall Dyall in a co<g ref="char:cmbAbbrStroke">̄</g>petent diſtance from the ſame. To this undertaking I was moved, as well, by the oportunity of à fountayne in the Privy Garden, ſoe neere the Dyall: as alſo for that Experience had taught me, that ſuch Dialls, as formerly I had made to shew the Howre in ſeverall ways by water, were for their rarity and novelty noe leſſe plea<g ref="char:EOLhyphen"/>ſing to the beholder, then the reſt.</p>
+               <p>Being now very buſy in theſe two Employments, and having towards the middle of winter made à conſiderable progreſſe therein: I receaved à letter from à friend at London, wherein he told me, that the Diall, for want of à cover (wich accor<g ref="char:EOLhyphen"/>ding to his Majeſtyes gracious order, should have been ſett over it in the winter) was much endomaged by the ſnow lying long frozen upon it; and that, unleſſe à cover were provided (of which he ſaw little hope) another or two ſuch tempe<g ref="char:EOLhyphen"/>ſtuous winters, would utterly deface it. Heereupon I layd aſide as well the ſayd Explication, as theſe Waters Dyalls, it ſeeming to noe purpoſe, an Explication should come forth, of the Uſe of the Diall, when it was now rendred Uſeleſſe. Which reſolution being underſtood by ſome of thoſe worthy perſons, who before, had urged for the publishing the ſayd Explication they judged that not withſtanding the Diall it ſelf should be rendred Uſeleſſe; yet the ſayd Explication, was not to be omitted: ſince thereby would be given occaſion to ſome other skillfull Mathematicien (of which we have many in England) to ſett up another in place thereof both more ſpecious and durable, and adorned with more variety of invention.</p>
+               <p>This reaſon ſuting well with the deſire I formerly had, of adorning his Majeſtyes Garde<g ref="char:cmbAbbrStroke">̄</g> with ſome curioſity that might in its kind ſurpaſſe what might elſe where be found, I reſolved to take in ha<g ref="char:cmbAbbrStroke">̄</g>d agayne the ſayd Explication. Which that it may the
+<pb n="3" facs="tcp:96750:4"/>better be performed, I will firſt enumerate the parts or peeces of which the whole Diall conſiſts, and then deſcend to the Dialls deſcribed on each particular peece.</p>
+            </div>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAPTER I.</hi> Of the ſeverall parts of this Diall: and of the Dialls deſcribed on each part, in generall.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His Diall Standing on à Pillar or Piedeſtall of ſtone, conſiſts cheefly of 6. parts or peeces, one leſſe then another, and placed one above another in forme of a Pyramis, as youſée in the precedent page.</p>
+               <div n="1" type="part">
+                  <head>Of the firſt Peece.</head>
+                  <p>THe firſt and largeſt of theſe 6. Peeces, or baſe of the ſayd Pyramis, is à round Table of about 40. inches in Diame<g ref="char:EOLhyphen"/>ter: and ſome 8. or 9. inches in thicknes: The Edge whereof is cutt into 20. Equall playnes, which being made hollow like ſoe many boxes of an inch deepe, are covered each of them with à cleare polishd glaſſe: and on the inſide of each glaſſe is deſcribed à Dyall: whereof ſome of them shew the Hour ac<g ref="char:EOLhyphen"/>cordinge to the Ancient or lewes Manner of counting the Hours: Others according to the counting uſed by the Babylo<g ref="char:EOLhyphen"/>nians: Others according to the Italians: Others according to the way of counting uſed by Aſtronomers: and laſtly others shew what Hour it is according to our uſuall and ordinary way of counting the Hour, uſed in moſt parts of Europe. Theſe
+<pb n="4" facs="tcp:96750:5"/>20. Dyalls thus deſcribed on the Edge of this Table or firſt pee<g ref="char:EOLhyphen"/>ce, are all verticall Declining Dyalls: Whoſe Style or Gnomon, is Eyther à Lions paw, or Unicornes Horn or ſuch like rela<g ref="char:EOLhyphen"/>ting to his Majeſtyes Armes, and paynted on the bottome of the Box, as shall be ſayd in the next Chapter.</p>
+                  <p>Moreover upon the upper part of this Table, are placed 8. Reclining Dyalls, all made hollow, and covered with po<g ref="char:EOLhyphen"/>lishd, glaſſe like the former: but differ cheefly in this that they shew only the uſuall Hour in different wayes: one of them shew ing the Hout by the shade of the ſtyle falling upon the Hour-lines: another by the shade of the Hour lines falling upon the ſtyle: à third without any shade Eyther of Hour lines or ſtyle, &amp;c.</p>
+                  <p>Upon this Peece ſtand alſo 4. Globes, cutt into ſeverall Panes: upon one of which Globes are deſcribed ſeverall Dyalls belon<g ref="char:EOLhyphen"/>ging to Geography: on an another, Dyalls belonging to Aſtronomy: the third Dyalls shewing ſeverall things apper<g ref="char:EOLhyphen"/>tayning to Aſtrology, as what planet raigns every Hour: the Horoſcope: Aſpects of the ſunne with the ſtars, &amp;c.</p>
+                  <p>There are alſo belonging to this peece, and yſſuing out of the ſides thereof towards the Eaſt, Weſt, North and South 4. Iron branches ſupporting Each of them à glaſſe Boule, which shew the Hour, in 4. different wayes to witt by the 4. Ele<g ref="char:EOLhyphen"/>ments as shall heereafter be ſayd.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>Of the ſecond Peece.</head>
+                  <p>THe ſecond Peece of the Pyramis is alſo a round Table, al<g ref="char:EOLhyphen"/>moſt like the former, but ſomewhat leſſe, having only 30. inches in diameter, and about in thicknes. It ſtands u<g ref="char:EOLhyphen"/>pon the firſt, held up by 4. iron ſupporters. The Edge or cir<g ref="char:EOLhyphen"/>cumference of this Table is cutt into 16. Equall Playnes, all ma<g ref="char:EOLhyphen"/>de
+<pb n="5" facs="tcp:96750:5"/>hollow, and covered with glaſſe, like thoſe of the firſt Ta<g ref="char:EOLhyphen"/>ble. But they differ from them in this, that heere the Dyalls are not deſcribed on the glaſſe covers, but on the bottome of the boxes: neyther doethey shew the Hour, but the different Riſing of the more remarkable ſtarres, according to the three manner of Riſings obſerved by Aſtronomers, to witt, the Coſmicall Riſing, the Acronycall, and the Heliacall, as shall be decla<g ref="char:EOLhyphen"/>red heereafter, when we ſpeak of the Dyalls of this ſecond peece. The ſtyle to each of theſe Dyalls is à little ſtarre paynted upon the inſide of the glaſſe cover, the better to keepe it from the weather.</p>
+                  <p>Out of the ſides of this Peece yſſue alſo 4. Branches towards the Eaſt, Weſt, North and South, and carry on each of them à glaſſe Boule to shew the Hour, like thoſe of the firſt Peece, but in à different way. For one of them shews the Hour by à ſtyle without à Shadow: another shews it by à Shadow wit<g ref="char:EOLhyphen"/>hout à ſtyle, &amp;c. whereas thoſe of the firſt Table shew it by the 4. Elements, Fire, Water, Aer and Earth, as shall be ſayd in their due place.</p>
+                  <p>On the upper part of this Table are plaeed 8. Reclininge Play<g ref="char:EOLhyphen"/>nes: 4. where of are covered each of the<g ref="char:cmbAbbrStroke">̄</g> with à plate of looking-glaſſe, on which the Hour lines, or ſtyle of à Dyall being paynted, are reflected upon the bottome inclining playnes, of the Third peece, and there shew the Hour, as shall be preſently ſayd. The other 4. have alſo Dyalls upon them, which are to be ſeen each of them in a looking glaſſe placed upon the ſayd botto<g ref="char:EOLhyphen"/>me inclining playnes, of the Third peece: of which wee shall now ſpeak.</p>
+               </div>
+               <div n="3" type="part">
+                  <pb n="6" facs="tcp:96750:6"/>
+                  <head>Of the Third Peece.</head>
+                  <p>THe Third Peece of this Pyramidicall Dyall, is à great Hollow Globe, of about 24. inches in diameter: and is placed immediatly without any ſupporter, upon the ſecond peece. The ſuperficies of this Globe is cutt into 26. playnes: two whereof being octogones ſerve for top and bottome. The reſt are divided into 8. Equall Reclining playnes. 8. Equall in<g ref="char:EOLhyphen"/>clining playnes: and 8. Equall verticall or upright playnes. Theſe playnes are all of them made hollow like thoſe of the firſt and ſecond peece. The incliners are not covered with glaſſe, but left open, that they may the better receave and shew the Dyalls reflected, as hath been ſayd, from the ſecond peece.</p>
+                  <p>Two of the 8. upright playnes looking toward the North, have noe bottomes: but are covered only with cleare glaſſe, as ſerving only for windows to looke in to the Globe, and behold there the Dyals deſcribed on the Globe, which are ſeene as well without the ſame, as within. The other 6. have not only Each of them à cover of cleare polishd glaſſe with à Dyall de<g ref="char:EOLhyphen"/>ſcribed thereon, like thoſe of the firſt peece, but have alſo à glaſſe for their bottome; which glaſſe is thinnely paynted over, with white coulour, to the end the shade of the Hour lines drawn upon the cover, may be ſeen as well, within the Globe as without. On theſe bottome glaſſes are drawn ſeverall pictures, holding eyther à Scepter, or à Troncheon, or the like, the end whereof poynts the Hour, you look for.</p>
+                  <p>Two alſo of the Recliners looking towards the north, have only à glaſſe cover ſerving for à window to look into the Glo<g ref="char:EOLhyphen"/>be. The other 6. have double glaſſe, like the former. Their Dyalls are ſome drawn upon the cover, others upon the
+<pb n="7" facs="tcp:96750:6"/>bottome: but all ſoe contrived, that the Hour cannot beknown by them, but only by looking within the Globe.</p>
+                  <p>More over from the top of this Globe yſſue 4. iron Branches towards the 4. parts of the world, each of them carrying à glaſ<g ref="char:EOLhyphen"/>ſe Boule, proportionably leſſe then thoſe of the firſt and ſe<g ref="char:EOLhyphen"/>cond peece: on which Boule, are alſo Dyalls deſcribed, but different from the former shewing the Hour according to the ſeveral ways of counting the Hours. Theſe Boules are payn<g ref="char:EOLhyphen"/>ted on the inſide with thick coulour to keep out the light, except à little place which is left cleare like à ſtarre for the ſunne beames to paſſe through and shew the Hour: and the place alſo where the Hourlines are drawn, is only pain<g ref="char:EOLhyphen"/>ted on the outſide thinnely with white coulour, that the light of the ſunne paſſing through the ſayd ſtarre may be ſeen, and shew the Hour.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>Of the fourth Peece.</head>
+                  <p>THe fourth peece ſta<g ref="char:cmbAbbrStroke">̄</g>ding on the afore ſayd Globe, and held up by 4. iron ſupporters, like to thoſe which hold up the ſe<g ref="char:EOLhyphen"/>cond peece, but proportionably leſſe, is alſo à round Table of about 20. inches diameter, and 6. in thicknes. The Edge of this Table is cutt into 12. Equall ſuperficies, not play<g ref="char:EOLhyphen"/>ne, as hitherto, but concave like ſoe many concave ſemicylin<g ref="char:EOLhyphen"/>dres: On each of which is deſcribed à Dyall, which shews the uſuall Hour by the shade of à Flower de luce fixed at the top of each ſemicylinder.</p>
+                  <p>From the top of this Table yſſue forth 4. iron Bra<g ref="char:cmbAbbrStroke">̄</g>ches, carrying each à glaſſe Boul juſt like thoſe of the firſt, ſecond and Third peece, though proportionably leſſe. The Dyalls deſcribed on theſe glaſſe Bouls differ from thoſe of the Third peece, not on<g ref="char:EOLhyphen"/>ly becauſe they shew only the uſuall Hour; but alſo becauſe
+<pb n="8" facs="tcp:96750:7"/>heere the Hourlines are al left cleere for the ſunne beames to paſſe through: that by ſoe paſſing they may exhibite the like Dyall on the oppoſite ſide of the Boule: which ſide is for that purpoſe, thinnly paynted over with white coulour, that the ſayd Hours may be ſeen, and shew the Hour by their paſſing over à little ſtarre paynted in the middle thereof.</p>
+               </div>
+               <div n="5" type="part">
+                  <head>Of the fifth Peece.</head>
+                  <p>THe fifth peece ſtanding upon the 4<hi rend="sup">th</hi>. and held up alſo by 4. iron ſupporters, is à Globe of about 12. inches diameter: whoſe ſuperficies in cutt into 14. playnes, 8. whereof are Tri<g ref="char:EOLhyphen"/>angles Equall and Equilaterall, the other 6. are Equall Squares. The Dyalls deſcribed on theſe playnes shew only the uſuall Hour by the shade of a Flower de luce faſtened to the top or bottome of each playne.</p>
+               </div>
+               <div n="6" type="part">
+                  <head>Of the laſt or Higheſt Peece.</head>
+                  <p>THe Higheſt peece or top of the Pyramis, is à glaſſe Boule of ſome 7. inches diameter, ſtanding upon à foote of iron placed on the middle of the fift peece. The north ſide of this Boul is thinnly paynted over with white coulour, that the shade of à little golden Ball, that is placed in the middle of the Boule may be ſeene to paſſe over the Hourlines, which are drawn upon the ſayd white coulour, and note the Hour. The Boule is included between two circles of iron guilded, with à croſſe on the top. And thus much concerning the parts of this Pyramidicall Dyall, in generall.</p>
+                  <p>To which may be added, that the firſt 4. peeces have all their ſides covered with little plates of black glaſſe, faſtly ce<g ref="char:EOLhyphen"/>mented to the ſayd peeces, except thoſe places whereon the
+<pb n="9" facs="tcp:96750:7"/>Dyalls are drawne: which being, as is ſayd, covered alſo with plates of polished glaſſe, there appeares almoſt nothing on the outſide af this Dyall, but glaſſe: which for the greater ornament of the Dyall the angles or corners, where thoſe little plates of black glaſſe are joyned togeather, are guilded, as al<g ref="char:EOLhyphen"/>moſt all the iron work of the Pyramis, as well ſupporters, as Branches, ſtyle, &amp;c. are eyther wholy, oras much as ſerves for or<g ref="char:EOLhyphen"/>nament, covered in like manner with gold.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAPTER II.</hi> Of the 20. Verticall Dialls deſcribed on the Edge of the first Peece.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Y what is ſayd in the precedent Chapter of the firſt Peece it appeares, that beſides the Dyalls deſcribed on the 4. great Globes, which ſtand on the ſayd firſt peece: there are 32. Dyalls belonging thereto: Viz. 20. Verti<g ref="char:EOLhyphen"/>call, or <hi>Upright</hi> Dyalls: 8. Reclining Dyalls: and 4. Sphaericall Dyalls. Of the 20. Verticalls, we shal now ſpeak in this Chapter: of the 8. Recliners in the next: and of the 4. Sphaericall in the 4<hi rend="sup">th</hi>. Chapter.</p>
+               <p>Theſe Verticalls being made hollow Boxes, (as is ſayd) co<g ref="char:EOLhyphen"/>vered with glaſſe: the Hour-lines of each of them are drawn upon the glaſſe: and the ſtyle (which is eyther à Lions paw, or Unicornes Horne, &amp;c.) is paynted on the bottome of the box. Whence it followes, that whereas in the ordinary way of making ſunne Dyalls, the shade of the ſtyle or Gnomon paſ<g ref="char:EOLhyphen"/>ſes over the Hour-lines: heere on the contrary the shade of
+<pb n="10" facs="tcp:96750:8"/>the Hour-lines paſſes over the ſtyle. Soe that whereas before, when the ſunne did not shine, you ſaw nothing in the botto<g ref="char:EOLhyphen"/>me of the box, but à paynted Lion or Unicorne, &amp;c. Soe now as ſoone as the ſunne shines, you may behold there à perfit Dyall with all its lineaments and numbers exactly deſcribed, and juſt like the other drawne upon the glaſſe cover: as being on<g ref="char:EOLhyphen"/>ly the shade thereof cauſed by the ſunne beames paſſing through the ſayd glaſſe. Which shady Dyall being moved by the motion of the ſunne from one part of the ſayd bottome to another, shews by paſſing over the paw of the Lion, for exam<g ref="char:EOLhyphen"/>ple, the ſame Hour of the day, which in the ordinary Dyalls is shewed by the shade of the ſtyle paſſing over the Hours.</p>
+               <p>Theſe 20. Dyalls, thus deſeribed are not all of the ſame kind, nor shew the time of the day all in the ſame manner, but in very different wayes, according to the different wayes of numbring the Hours uſed by ſeverall ſorts of people: Some beginning to count their Hours from ſunne Riſing: others from ſunne-ſetting: others from noone, and others from Mid<g ref="char:EOLhyphen"/>night. And agayne, of thoſe, who count from ſunne Ri<g ref="char:EOLhyphen"/>ſing: ſome count allwayes 12. Hours from ſunne Riſing till ſunne ſetting for the day: and as many from ſunne ſetting till ſunne Riſing for the night: whether the dayes or nights be long or short. And theſe kind of Hours are therefore called the unequall Hours, as being longer or shorter according as the dayes are now longer, now shorter.</p>
+               <p>Others there are, who alſo count from ſunne Riſing, but continue the number till next ſunne Riſing: counting all<g ref="char:EOLhyphen"/>wayes from ſunne Riſing till ſunne Riſing 24. Hours. Accor<g ref="char:EOLhyphen"/>ding to which, it is all wayes 24. à clock at ſunne Riſing.</p>
+               <p>Other on the contrary count allways 24. Hours from ſun<g ref="char:EOLhyphen"/>ne ſetting till next ſunne ſetting: ſoe that when ſunne ſetts, it is all wayes 24. à clock.</p>
+               <pb n="11" facs="tcp:96750:8"/>
+               <p>Others count alſo 24. Hours, but begin at Noone, and End at next Noone; and with theſe it is all wayes 24. à clock at Noone.</p>
+               <p>Laſtly others beginn at Midnight, and count 12. Hours till Noon: and then 12. more till Midnight: and according to the<g ref="char:EOLhyphen"/>ſe, it is all ways 12. à clock, at Noone and at Midnight.</p>
+               <p>The firſt of theſe 5. wayes, and which divides the ſpace be tween ſunne Riſing and ſetting into 12. Equall parts, making thereby the Hours unequall (as is ſayd) that is longer in ſum<g ref="char:EOLhyphen"/>mer then in winter, is the Moſt ancient of all; and are therefo<g ref="char:EOLhyphen"/>re called <hi>Horae Antiquae.</hi> They were anciently uſed by the le<g ref="char:EOLhyphen"/>wes, at is manifeſt by divers places of holy writt. Soe that when in S. Mathew chap. 27. v. 54. it is ſayd to <hi>have been dark<g ref="char:EOLhyphen"/>nes</hi> (at our Saviors paſſion) <hi>from the ſixth Hour till the Ninth:</hi> it is to be underſtood according to our manner of reckoning the Hours: that there was darkores from Noon till about 3. à clock after dinner: ſince according to this counting by une<g ref="char:EOLhyphen"/>quall Hours: it is all ways at Noon 6. à clock, and 12. at ſunne ſett. And for this reaſon, they are called heere in the Dyall <hi>Horae antiquae ſive Judaicae.</hi> They are alſo called <hi>Horae Planeta<g ref="char:EOLhyphen"/>riae:</hi> becauſe the Auncient Aſtrologers ſuppoſed à new Pla<g ref="char:EOLhyphen"/>net to raigne in each of theſe unequall Hours.</p>
+               <p>The ſecond way of counting 24. Hours from ſunne Riſing till ſunne Riſing, is uſed by the Babylonians, and theſe Hours are therefore called <hi>Horae Babylonicae:</hi> the Babylonian Hours.</p>
+               <p>The third way of counting 24. Hours from ſunne ſett to ſun<g ref="char:EOLhyphen"/>ne ſett, is uſed cheefly by the Italians: and therefore theſe Hours are called <hi>Horae Italicae:</hi> the Italian Hours.</p>
+               <p>The fourth way counting alſo 24. Hours from Noone or Midday till next Midday, is uſed by Aſtronomers in calcula<g ref="char:EOLhyphen"/>ting the places and poſitions of the ſtarres and Planets in the Heavens, &amp;c. And are therefore called <hi>Horae Astro<g ref="char:EOLhyphen"/>nomicae:</hi>
+                  <pb n="12" facs="tcp:96750:9"/>Aſtronomicall Hours.</p>
+               <p>The fift and laſt way: which counts 12. Hours from Mid<g ref="char:EOLhyphen"/>night to Noone, and as many from Noone to Midnight, is uſed as well in Moſt parts of Europe, as heere in England: and is therefore ſtyled in the Dyall, the uſuall or vulgar way: and the Hours, <hi>Horae Vulgares;</hi> the vulgar or uſuall Hours.</p>
+               <p>Now there being (as hath been ſayd 20. Dyalls placed on the Edge of this firſt peece: there is alotted in the Dyall to each of the 5. ſorts, 4. Dyalls: which are ſoe diſpoſed, that at any time of the day you may behold the time of the day repreſented in every of thoſe 5. manner of wayes, And that they may be the better conceaved it ſeemed good to ſett downe one of each ſort, in the next Page: which by their titles are eaſily know.</p>
+               <p>For
+<list>
+                     <item>1. thoſe 4. whoſe title is, <hi>Per horas numeratas, ab or<g ref="char:EOLhyphen"/>tu Solis,</hi>
+                        <note place="margin">FIG. 1.</note> 
+                        <hi>more antiquo, ſive Judaico,</hi> and have à Red Lion payn<g ref="char:EOLhyphen"/>ted on the bottome, shew by the shady Dyall paſſing over the paw of the Lion, what à clock it is ſayd to be at Whi<g ref="char:EOLhyphen"/>tehall, according to the Ancient or lewes account.</item>
+                     <item>2. Thoſe 4. whoſe title is <hi>Per Horas numeratas ab ortu Solis more Babylonico,</hi>
+                        <note place="margin">FIG. 2.</note> and have paynted on their bottome à Harpe with à Scepter, shew by the shady Dyall paſſing over the top of the Scepter, what à clock it is at Whitehall according to the Babylonian way of the counting the Hours.</item>
+                     <item>3. Thoſe 4. whoſe title is,<note place="margin">FIG. 3.</note> 
+                        <hi>Per Horas numeratas ab occaſu Solis more Italico,</hi> and have on their bottome à Flower de luce, shew by the like shady Dyall paſſing over the top of the Flower de luce, what à clock it is there according to the Italian account.</item>
+                     <item>4. Thoſe 4. whoſe title is, <hi>Per Horas numeratas à Meridie more Astronomico,</hi>
+                        <note place="margin">FIG. 4.</note> and have on their bottome à Unicorn, shew by the often mentioned shady Dyall, what à clock it is to be ſayd to be according to the count uſed by Aſtronomers.</item>
+                  </list>
+               </p>
+               <pb facs="tcp:96750:9"/>
+               <figure>
+                  <head>1</head>
+                  <head>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er Horas Numeratas ab ortu Solis more Antiquo <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Iudaico</head>
+               </figure>
+               <figure>
+                  <head>2</head>
+                  <head>Per Horas Numeratas ab ortu Solis more Babylonico</head>
+               </figure>
+               <figure>
+                  <head>3</head>
+                  <head>Per Horas Numeratas <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>caſu Solis more Ita<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </head>
+               </figure>
+               <figure>
+                  <head>4</head>
+                  <head>Per Horas Numeratas a Me<g ref="char:EOLhyphen"/>ridie more Aſtronomico</head>
+               </figure>
+               <figure>
+                  <head>5</head>
+                  <head>Per Horas Numeratas a Media nocte more Vsitato</head>
+               </figure>
+               <pb n="14" facs="tcp:96750:10"/>
+               <p>Laſtly, theſe 4. whoſe title is, <hi>Per horas numeratas à Meridie &amp; media nocte,</hi>
+                  <note place="margin">FIG. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> 
+                  <hi>moreuſit ato,</hi> and have on the bottome à Lion paynted in its naturall coulour, shew by the shady Dyall, paſ<g ref="char:EOLhyphen"/>ſing over the Lions paw, what à clock it is according to the u<g ref="char:EOLhyphen"/>ſuall and ordinary way of reckoning the Hours.</p>
+               <p>Soe that for example: yf at the beginning of July (at what time the ſunne riſes at 4. clock and ſetts at 8.) I find by looking on the uſuall Dyall, that it is juſt 8. à clock in the morning I shall find à the ſame time by the Ancient or Judaicall Dyall, to be juſt 3. à clock: by the Babylonian to be 4. by the Italian 12. and by the Aſtronomicall to be 20. and thus much for the uſe of theſe 20. Verticall Dyalls.</p>
+               <p>Now the reaſon of their difference from the ordinary Dyalls which shew the Hour by the shade of the ſtyle paſſing over the Hour-lines is, that the ſunne being moved in the ſame man<g ref="char:EOLhyphen"/>ner, whether the shade of the Hour-lines be moved over the ſtyle, or on the contrary, the shade of the ſtyle moved over the Hour-lines the ſelf ſame effect, in order to the shewing the Hour, muſt needs follow both wayes: ſince the Hour-lines are noe other then the ſections, which the playnes of the Hour circles in the Heavers make with the playne of the Dyall: in each of which playnes, the ſtyle alſo is, as inſenſibly differing from the Axis of the world.</p>
+               <p>From whence it follows, that the afore ſayd Dyalls beyng made according to the ordinary way of making the like verticall declining Dyalls, are to be inverted, to the End they may shew the Hour.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="15" facs="tcp:96750:10"/>
+               <head>
+                  <hi>CHAPTER III.</hi> Of the 8. Reclining Dyalls Standing upon the firſt Peece.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He 8. Reclining Dyalls, being alſo made hol<g ref="char:EOLhyphen"/>low, and covered with glaſſes like theſe 20. verticalls we now ſpoke of, shew only the uſuall Hour; but performe it in different, or ra<g ref="char:EOLhyphen"/>ther contrary wayes one to another. For of tho<g ref="char:EOLhyphen"/>ſe 4. which ſtand upon the ſouth part of the Ta<g ref="char:EOLhyphen"/>ble; one shews the Hour by the shade of the ſtyle paſſing over the Hour-lines. Another on the contrary shews it by the shade of the Hour-lines paſſing over the ſtyle. A third shews it both ways; as well by shade of ſtyle paſſing over Hours, as shade of Hours paſſing over ſtyle. The fourth shews the Hour without shade eyther of ſtyle or Hourlines.</p>
+               <p>In like manner, of thoſe 4. which ſtand on the North part of the Table, in one you ſee the Hour-lines, but noe ſtyle. In another you ſee the ſtyle, but noe Hours. In à third you ſee neyther ſtyle nor Hours, unleſſe the ſuune shine, as shall be de<g ref="char:EOLhyphen"/>clared by and by. In the fourth, you ſee indeed both Hours and ſtyle: but in à different way from what hath been hit<g ref="char:EOLhyphen"/>herto practiſed: for heere you behold the ſtyle in the ſame ſu<g ref="char:EOLhyphen"/>perficies with the Hour-lines. Whereas in the common prac<g ref="char:EOLhyphen"/>tiſe of Dyalling, the ſtyle is allwayes lifted above the ſuper<g ref="char:EOLhyphen"/>perficies in which are the Hour-lines, to the end it may caſt its shade upon them. And thus much of theſe 8. Reclining Dyalls in generall. We shall now ſpeak of them in particular and firſt.</p>
+               <div type="part">
+                  <pb n="16" facs="tcp:96750:11"/>
+                  <head>Of thoſe <hi>4.</hi> Which ſtand upon the ſouth part of the Table.</head>
+                  <p>THe firſt of theſe 4. whoſe title is, <hi>Per umbram ſtyli,</hi> and shews,<note place="margin">FIG. 6.</note> (as is ſayd) the Hour by the shade of the ſtyle paſ<g ref="char:EOLhyphen"/>ſing over the Hour-lines, hath upon the glaſſe cover, paynted à little ſtarre: which ſerves for ſtyle: and on the bottome are drawn the Hour-lines: over which the shade of the ſayd ſtarre paſſing shews the Hour.</p>
+                  <p>The ſecond whoſe tittle is, <hi>Per umbram Horarum,</hi> and shews the Hour by the shade of the Hours paſſing over the ſtyle,<note place="margin">FIG. 7.</note> hath upon the glaſſe cover paynted à Harp, whoſe ſtrings are the Hour-lines: and on the bottome is paynted à Flower de luce, whoſe top ſerves for ſtyle. Soe that by the shade of thoſe ſtrings paſſing over the Flower de luce, the Hour is known.</p>
+                  <p>The third, whoſe title is, <hi>Per umbram tam ſtyli quàm Hora<g ref="char:EOLhyphen"/>rum,</hi>
+                     <note place="margin">FIG. 8.</note> and shews the Hour as well by the shade of the Hours paſ<g ref="char:EOLhyphen"/>ſing over the ſtyle, as by thes hade of the ſtyle paſſing over the Hours, hath upon the glaſſe cover à Unicorne paynted with certayn little ſtarres on his back: each of which ſtanding for an Hours, hath its number written over it. On the bottome are drawn the Hour-lines of à Dyall, and by them à Scepter: ſoe that when the ſunne shines you may behold the Unicornes shade being moved by the motion of the ſunne, to note the Hour with the end of its Horn: and at the ſame time, the shade of the ſayd little ſtarres, to shew the ſame Hour by paſſinge over the Scepter.</p>
+                  <figure>
+                     <head>6</head>
+                     <head>PER VMBRAM STYLI</head>
+                  </figure>
+                  <figure>
+                     <head>7</head>
+                     <head>PER VMBRAM HORARUM</head>
+                  </figure>
+                  <figure>
+                     <head>8</head>
+                     <head>PER VMBRAM TAM STYLI QVAM HORARVM</head>
+                  </figure>
+                  <figure>
+                     <head>9</head>
+                     <head>SINE VMBRA VEL STYLI VEL HORARVM</head>
+                  </figure>
+                  <p>As for the reaſon of the three firſt, there needs to adde noe more then what hath been ſayd of the 20. verticall Dyalls. But concerning the 4<hi rend="sup">th</hi>. the reaſon why the ſtyle or Flower de luce lyes in the ſame ſuperficies with the Hour-lines, is, that the ſayd luminous Flower de luce ariſing out of the paynted Flower de luce, and shewing the Hour, is reflected from à looking glaſſe placed upon the bottome of the Dyall.</p>
+               </div>
+               <div type="part">
+                  <head>Of the other <hi>4.</hi> Reclining Dyalls, Which ſtand upon the North Part hof the Table.</head>
+                  <p>THe three firſt of theſe Dyalls are ſoe contrived, that the Hour cannot be other wiſe known by them, then by loo<g ref="char:EOLhyphen"/>king through à little Ring placed on the back of the Dyall: as shall now be explicated.</p>
+                  <p>For in the firſt,<note place="margin">FIG. 10.</note> whoſe title is, <hi>Per Horas latentes,</hi> yf you look on the face of the Dyall, you perceave noe Hour lines, but only à ſtyle, that is à Flower de luce paynted upon the co<g ref="char:EOLhyphen"/>ver: and on the contrary yf you look on the back of the Dyall through the ſayd Ring, you shall ſee the Hour-lines, but noe ſtyle, unleſſe the ſunne shine: for then you shall behold the shade of the ſayd Flower de luce to paſſe over the ſayd Hour-lines, and note the Hour.</p>
+                  <figure>
+                     <head>10</head>
+                     <head>PER HORAS LATENTES</head>
+                  </figure>
+                  <figure>
+                     <head>11</head>
+                     <head>PER LATENTEM STYLUM</head>
+                  </figure>
+                  <figure>
+                     <head>12</head>
+                     <head>PER LATENTES TAM HORAS QUAM STYLUM</head>
+                  </figure>
+                  <figure>
+                     <head>13</head>
+                     <head>PER TAM HORAS QUAM STYLUM PATENTES</head>
+                  </figure>
+                  <p>In the third,<note place="margin">FIG. 12.</note> whoſe title is, <hi>Per latentes tam Horas quà ſty<g ref="char:EOLhyphen"/>lum,</hi> you ſee neyther Hours nor ſtyle by looking on the Dyall but yf you looke (as before) on the back: you may behold the Hourlines: and yf the ſunne shines, you may perceave alſo à little ſtarre, to paſſe over them, and shew the Hour.</p>
+                  <p>Laſtly in the Fourth, whoſe title is, <hi>Per tam ſtylum quàm Ho<g ref="char:EOLhyphen"/>ras patentes,</hi>
+                     <note place="margin">FIG. 13.</note> there appeares both ſtyle and Hours: but the ſtyle is without shade, and the Hours without lines. That is upon the glaſſe cover are paynted certayne little ſtarres, ſerving for the Hours: and à Scepter ſerving for ſtyle: out of which Scepter, when the ſunne shines, you may be<g ref="char:EOLhyphen"/>hold another Seepter of light to yſſue, and by paſſing under the ſayd ſtarres, to shew the Hour.</p>
+                  <p>Now for the reaſon, why in the three firſt you cannot ſee the Hour, but by looking through the Ring on the back of the Dyall: it is, becauſe their bottomes being glaſſe thinnely payn<g ref="char:EOLhyphen"/>ted over with white coulour, nothing can be ſeen by looking on the face of the Dyall, that is drawn on the lower ſide of the bottome glaſſe: and on the contrary, by looking on the back, nothing can be ſeen that is drawn upon the glaſſe cover, but only the shade there of, when the ſunne shines.</p>
+                  <p>The reaſon of the fourth, is the ſame which was given for the fourth of thoſe, which ſtand on the ſouth part of the Table.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="21" facs="tcp:96750:13"/>
+               <head>
+                  <hi>CHAPTER IV.</hi> Of the 4. glaſſe Boules ſtanding on the 4. Branches of the firſt Peece.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Heſe 4. Boules shew alſo the uſuall Hour in 4. different wayes. For one of them shews the Hour by Fire: another by Water: the third by the Aire: and the fourth by the Earth: as we shall now declare.</p>
+               <div n="1" type="part">
+                  <head>Of the first Boule.</head>
+                  <p>THe firſt there fore, whoſe title is, <hi>Per Ignem,</hi>
+                     <note place="margin">FIG. 14.</note> and shews as is ſayd, the Hour by Fire, is à little glaſſe Boule filled with cleare water. This Boul hath about 3. inches in diame<g ref="char:EOLhyphen"/>ter, and is placed in the middle of another Sphaere of about 6. inches in diameter, conſiſting of ſeverall iron Rings or circles repreſenting the Hour circles in the Heavens. The Hour is heere knowne by applying your hand, to the ſayd Hour circles, when the ſunne shines: for that circle where you feel your hand burnt by the ſunne beames paſſing through the Boule filled with water, shall shew the true Hour: according to the Latin verſe there adjoigned. <hi>Cratem tange: manuſue Horam ti<g ref="char:EOLhyphen"/>bi reddet aduſta.</hi>
+                  </p>
+                  <p>The reaſon of this Dyall is, that the parallel rayes of the ſun<g ref="char:EOLhyphen"/>ne paſſing through the ſayd little Boul are bended, by the den<g ref="char:EOLhyphen"/>ſily of the water, into à cone or pyramis, whoſe vertex reaches à little begond thoſe Hour circles, and there burnes the hand applyed. For ſoe many rayes being all united into à poynt,
+<pb n="22" facs="tcp:96750:14"/>muſt needs make an intenſe heat. Which heat is ſoe power<g ref="char:EOLhyphen"/>full in the ſummer time that it will fire à peece of wood ap<g ref="char:EOLhyphen"/>plyed unto it.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>Of the ſecond Boule.</head>
+                  <p>THe ſecond Boule, whoſe title is, <hi>Per Aquam,</hi> shews the Hour by water:<note place="margin">FIG. 15</note> that is by the rayes of the ſunne paſſing through the water, with which the Boule is filled, as in the praecede<g ref="char:cmbAbbrStroke">̄</g>t. Which rayes although they be bended by the denſity of the water, as before, yet they burn not, being cutt of at their going out of the Boule, by à little white coulour layd thinnely on that part where they break out: making thereby only à round circle of light upon the ſayd coulour: the center of which circles shews the Hour amongſt the Hour circles, the<g ref="char:EOLhyphen"/>re deſcribed on the ſaid white coulour: as the Latin verſe doth alſo explicate, <hi>Luminis hîc centrum qui tangit, tangit &amp; Horam.</hi>
+                  </p>
+                  <p>The reaſon of this Dyall (beſides what we now ſayd of the bending of the rayes) is, that theſe Hour-circles being noe other then the ſections, which the playnes of the caeleſtial Hour-circles croſſing each other in the center of the boule make in the ſuperficies thereof: and the ſayd center of the circle of light madd on te Boule, anſwearingt perpetually to the center of the ſunne, it neceſſarily followes, that it shew allwayes the true Hour. As any one knowing but the firſt Principles of Dial<g ref="char:EOLhyphen"/>ling will conceave.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>Of the Third Boule.</head>
+                  <figure>
+                     <head>14</head>
+                     <head>PER IGNEM</head>
+                  </figure>
+                  <figure>
+                     <head>15</head>
+                     <head>PER AQUAM</head>
+                  </figure>
+                  <figure>
+                     <head>16</head>
+                     <head>PER AEREM</head>
+                  </figure>
+                  <figure>
+                     <head>17</head>
+                     <head>PER TERRAM</head>
+                  </figure>
+                  <p>Now the reaſon, why by thoſe little pictures of the ſun<g ref="char:EOLhyphen"/>ne, ſeen both under the ſame Hour-circle, or parallel to it, you find the Hour, is, that thoſe Hour circles deſcribed on the Boule, being the ſections, which the playnes of the cae<g ref="char:EOLhyphen"/>leſtiall Hour-circles make in the ſuperficies of the Boule, (as was ſayd alſo of the ſecond Boule) and theſe two little ſun<g ref="char:EOLhyphen"/>nes being reflected one of them from the convex ſuperficies of the Boule, and the other from the concave: it followes by the Rules of Reflexion, that thoſe two pictures of the ſunne, are both ſeen in the ſame playn in which is alſo the eye which ſeeth, and the ſunne which is ſeen. Wherefore ſince the ſunne is allwayes in the playne of the true Hour-circle: it neceſſari<g ref="char:EOLhyphen"/>ly followes, that the eye behold both thoſe pictures, at the true Hour. For although one Reflexion cannot ſufficien<g ref="char:EOLhyphen"/>ly determine the eye to behold the ſunne in the true Hour-cir<g ref="char:EOLhyphen"/>cle: yet two reflections ſuffiſe.</p>
+                  <p>Where is alſo to be noted, that theſe three Boules we ha<g ref="char:EOLhyphen"/>ve now ſpoke of, have this praeeminence above all other Dyalls depending on the shade of the ſtyle, that they shew the Hour, when by none of thoſe others it can be diſcerned: that is when the ſunne shines ſoe dimly that it caſts noe perceptible shadow.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>Of the fourth Boule.</head>
+                  <p>THe fourth Boule whoſe title is,<note place="margin">FIG. 17.</note> 
+                     <hi>Per Terram</hi> shews what à clock it is in any part of the world. Which is heere per<g ref="char:EOLhyphen"/>formed
+<pb n="25" facs="tcp:96750:15"/>by à Geographicall deſcription of the whole earth upon the inward ſuperficies of the Boule: togeather with à Meri<g ref="char:EOLhyphen"/>dian circle moveable upon the North and South poles: and the Aequinoctiall circle divided into its 24. Equall Hours and faſt<g ref="char:EOLhyphen"/>ned to the ſayd Meridian, at the Hour of 12. at which place al<g ref="char:EOLhyphen"/>ſo, is erected à Flower de luce: and at the North pole is faſtned à thrid. The boule being thus prepared, and rightly placed: yf you turne the ſayd moveable meridian till the flower de luce caſt noe shade upon the Boule, and then bringing the thrid over any part of the world till it croſſe the Aequinoctiall circle: yoe shall ſee the Hour there noted belonging to that part or parts, of the world, over which the ſayd thrid paſſes: accor<g ref="char:EOLhyphen"/>ding to the verſe there adjoyned: <hi>Umbram tolle Orbi, totumue ſtat Hora per Orbem.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAPTER V.</hi> Of the 4. great Globes Standing on the firſt Peece.</head>
+               <div n="1" type="part">
+                  <head>Of the firſt Globe.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>He firſt therefore or theſe Globes, whoſe title is, <hi>Horologia Geographica,</hi> having about 13. inches in diameter, hath its ſuperficies cutt into 32. playnes; whereof 20. are Trian<g ref="char:EOLhyphen"/>gles all equall and equilaterall. The other 12. are Pentagones or fiveangled figures, all of them likewiſe equall one to another. So<g ref="char:EOLhyphen"/>me of theſe Pentagones are made hollow like Hemiſphaeres,
+<pb n="26" facs="tcp:96750:16"/>others like cones, the reſt, as alſo the Triangles, are left playne. The Dyalls deſcribed as well on the Pentagones, as on the Triangles have for ſtyle, à sharp poynted iron perpendicularly erected.</p>
+                  <p>The Dyalls deſcribed on the Pentagones shew not only the ſituation, of the more remarkable countryes in the world, but alſo what ſeverall actions, are perfor<g ref="char:EOLhyphen"/>med in them, at the ſame time: for example, who are now at Dinner, who at ſupper, who are riſing, who ſleeping, &amp;c.</p>
+                  <p>For thoſe two,<note place="margin">FIG. 18</note> whoſe title is, <hi>Tempus ſurgendi,</hi> shew by the shade of the ſtyle in what part of the world it is time of Riſing, or 6. à clock in the Morning.</p>
+                  <p>Thoſe,<note place="margin">FIG. 19.</note> whoſe title is, <hi>Tempus Prandendi,</hi> shew in the ſame manner, in what part of the world, it is time of Dining or Midday.</p>
+                  <p>Thoſe whoſe title is.<note place="margin">FIG. 20.</note> 
+                     <hi>Tempus Coenandi,</hi> shew in what coun<g ref="char:EOLhyphen"/>try it is ſupper time, or 6. à clock at night.</p>
+                  <p>Thoſe,<note place="margin">FIG. 21.</note> whoſe title is, <hi>Tempus Dormiendi,</hi> shew where it is Midnight, or time of ſleeping.</p>
+                  <figure>
+                     <head>18</head>
+                     <head>TEMPUS SURGENDI
+<list>
+                           <item>In Iamaica</item>
+                           <item>In Guiana</item>
+                           <item>In Groenlandia</item>
+                           <item>In Brasilia</item>
+                           <item>In canarijs</item>
+                           <item>In Luſitania</item>
+                           <item>In Hiſpania</item>
+                        </list>
+                     </head>
+                  </figure>
+                  <figure>
+                     <head>19</head>
+                     <head>TEMPUS DORMIENDI
+<list>
+                           <item>In Nova Albion</item>
+                           <item>In California</item>
+                           <item>In Nova Granada</item>
+                           <item>In No<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> Hiſpania</item>
+                           <item>In Virginia</item>
+                           <item>In Nova Anglia</item>
+                           <item>In Marilandia</item>
+                           <item>In Iſlandia</item>
+                        </list>
+                     </head>
+                  </figure>
+                  <figure>
+                     <head>20</head>
+                     <head>TEMPUS PRANDENDI
+<list>
+                           <item>Apud Mogores</item>
+                           <item>In Nova Zembla</item>
+                           <item>In Tartaria</item>
+                           <item>I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Arabia</item>
+                           <item>In Moſcovia</item>
+                           <item>In Polonia</item>
+                           <item>In Dania</item>
+                        </list>
+                     </head>
+                  </figure>
+                  <figure>
+                     <head>21</head>
+                     <head>TEMPUS CAENANDI
+<list>
+                           <item>In Cauchinchina</item>
+                           <item>In Bengala</item>
+                           <item>In Camba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>a</item>
+                           <item>In Perſia</item>
+                           <item>In Sinu-Arab:</item>
+                           <item>In Arabia</item>
+                        </list>
+                     </head>
+                  </figure>
+                  <figure>
+                     <head>22</head>
+                     <head>Habents Solem ſupra caput</head>
+                     <p>Tropicus Capricorni</p>
+                     <p>AEquator</p>
+                     <p>Tropicus Cancri</p>
+                     <p>Zefata</p>
+                     <p>Nubia</p>
+                     <p>Oceani<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </p>
+                     <p>AEthiopia</p>
+                     <p>Braſilia</p>
+                     <p>Tabair</p>
+                     <p>Guiana</p>
+                  </figure>
+                  <p>Now for the 20. Equilaterall Triangles: the Dyalls deſ<g ref="char:EOLhyphen"/>cribed on them,<note place="margin">FIG. 23. &amp; 24.</note> shew only what à clock it is in this or that particular place, according to the uſuall way of counting the Hours from Midnight to Noone, and from Noone to Midnight whereof only three examples are heere ſett downe. For example, one of theſe Dyalls shews what à clock it is at Jeruſalem: another at Conſtantinople: another in Jamaica, &amp;c.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>Of the ſecond Globe.</head>
+                  <p>THe ſecond Globe, whoſe title is, <hi>Horologium Aſtro<g ref="char:EOLhyphen"/>nomicum oſtendens, &amp;c.</hi> is juſt like the former, whe<g ref="char:EOLhyphen"/>reof we have now ſpoken: that is the ſuperficies the<g ref="char:EOLhyphen"/>reof is cutt into 12. Pentagones and 20. Triangles. But the Dyalls, deſcribed on theſe Pantagones and Trian<g ref="char:EOLhyphen"/>gles, are much different from thoſe of the former. As not shewing the Hour of the day: but divers other things belonging to Aſtronomy, as the Azimuth or diſtance of the Sunne from the South: The Almican<g ref="char:EOLhyphen"/>tarath, or Height of the Sunne above the Horizon: what Hour he riſes and ſetts: and the like as shall now be ſayd.</p>
+                  <pb facs="tcp:96750:17"/>
+                  <figure>
+                     <head>23</head>
+                     <head>IEROSO LYMIS</head>
+                  </figure>
+                  <figure>
+                     <head>24</head>
+                     <head>CONSTANTINOPOLI</head>
+                  </figure>
+                  <pb n="30" facs="tcp:96750:18"/>
+                  <p>Firſt therefore the Dyall, whoſe title is, <hi>Azimuth Solis à Meridie,</hi>
+                     <note place="margin">FIG. 25.</note> shews by the shade of the ſtyle (which in each Dyall heere alſo is perpendicularly erected) how many degrees the Sunne is diſtant from the true Soutb, at ſuch time as you looke upon the Dyall. The lineaments of this Dyall, are noe others then the ſections, which the playnes of the verticall circles croſſing Each other on the top of the Style, make with the ſuperficies of the Dyall.</p>
+                  <p n="2">2. The Dyall whoſe title is,<note place="margin">FIG. 26.</note> 
+                     <hi>Altitudo Solis ſupra Horizon<g ref="char:EOLhyphen"/>tem,</hi> shews how many degrees the Sunne is elevated above the Horizon. The lineaments of this Dyall are the Sections which the ſuperficies of the Dyall makes with thoſe Cones whoſe baſes are parallel to the Horizon, and whoſe common vertex is the top of the ſtyle: or center of the Earth.</p>
+                  <p n="3">3. The Dyall, whoſe title is, <hi>Incipit Aurora,</hi> shews at what Hour beginns Break of Day,<note place="margin">FIG. 27.</note> that is when firſt the Cre<g ref="char:EOLhyphen"/>puſculine Arch begins to appeare. The lineaments by which this is heere performed are the Sections, which the ſuperfi<g ref="char:EOLhyphen"/>cies of the Dyall, makes with the Cones, whoſe baſes are parallel to the Equator, and whoſe common vertex, is the top of the ſtyle, or Earths center.</p>
+                  <p n="4">4. The Dyall, whoſe title is, <hi>Sol Oritur,</hi> shews by the now named Sections of thoſe cones,<note place="margin">FIG. 28.</note> whoſe baſes are parallel to the Equator, at what Hour the Sunne riſeth: and by conſequen<g ref="char:EOLhyphen"/>ce, when he ſetts.</p>
+                  <pb facs="tcp:96750:18"/>
+                  <figure>
+                     <head>25</head>
+                     <head>Azimuth Solis a Mer</head>
+                  </figure>
+                  <figure>
+                     <head>26</head>
+                     <head>Altitudo Solis</head>
+                  </figure>
+                  <figure>
+                     <head>27</head>
+                     <head>Sol oritur</head>
+                  </figure>
+                  <figure>
+                     <head>28</head>
+                     <head>Incipit Aurora</head>
+                  </figure>
+                  <pb n="32" facs="tcp:96750:19"/>
+                  <p n="5">5. The Dyall, which hath for title, <hi>In quo ſigno Zodiaci ſit Sol,</hi>
+                     <note place="margin">FIG. 29. &amp; 30.</note> shews by the ſayd ſections of the ſuperficies of the Dyall with the cones, whoſe baſes are parallel to the Equator, in what part or ſigne of the Zodiack the Sunne is. But becauſe the shade, of the top of the ſtyle falls twice every yeare, upon the ſame ſection, by reaſon of the Sunnes aſ<g ref="char:EOLhyphen"/>cending and deſcending from the one Tropick to other: therefore to avoyd confuſion, heere are two Dyalls, of the ſame ſort, one ſerving from the 10<hi rend="sup">th</hi>. of December to the 10<hi rend="sup">th</hi>. of June: the other from the 10<hi rend="sup">th</hi>. of June to the 10<hi rend="sup">th</hi>. of December.</p>
+                  <p n="6">6. The Dyall, whoſe title is, <hi>Dies Menſis</hi> shews by the like conicall ſections now mentioned,<note place="margin">FIG. 31 &amp; 32.</note> what Day of the month it is: at leaſt, as neere as can be expected in ſoe little à for<g ref="char:EOLhyphen"/>me. Heere are likewiſe two Dyalls of the ſame ſort, for the reaſon now mentioned. And theſe Dyalls which in this ſecond Globe, we have hitherto ſpoken of are all of them deſcribed on the Pentagones. Thoſe which follow are de<g ref="char:EOLhyphen"/>ſcribed on the Triangles.</p>
+                  <p n="7">7. The Dyall, whoſe title is, <hi>In qua parte Horizontis incipiat Aurora,</hi>
+                     <note place="margin">FIG. 33.</note> shews in what part of the Horizon begins the Break of the Day: that is, in what part thereof begins firſt to appeare the convex part of the Crepuſculine Arch: Whether juſt in the Eaſt, or in the North Eaſt, or South Eaſt, &amp;c. And by conſe<g ref="char:EOLhyphen"/>quence, in what part alſo the Evening Twilight Ends. The li<g ref="char:EOLhyphen"/>neaments of this Dyall, are the Sections which the playnes of the verticall circles croſſing Each other on the top of the ſtyle, Make with the playne of the Dyall.</p>
+                  <figure>
+                     <head>29</head>
+                     <head>In quo Signo Zodiaci ſit Sol.</head>
+                     <p>a 10 Dec. ad 10 Iunij</p>
+                  </figure>
+                  <figure>
+                     <head>30</head>
+                     <head>In quo Signo Zodiaci ſit Sol.</head>
+                     <p>a 10 Iunij ad 10 Dec.</p>
+                  </figure>
+                  <figure>
+                     <head>31</head>
+                     <head>Dies Menſis</head>
+                     <p>a 10 Dec. ad 10 Iunij</p>
+                     <p>
+                        <list>
+                           <item>Ian</item>
+                           <item>Feb:</item>
+                           <item>Martius</item>
+                           <item>Aprilis</item>
+                           <item>Maijus</item>
+                           <item>Iun</item>
+                        </list>
+                     </p>
+                  </figure>
+                  <figure>
+                     <head>32</head>
+                     <head>Dies Menſis</head>
+                     <p>a 10 Iunij ad 10 Dec.</p>
+                     <p>
+                        <list>
+                           <item>Nou:</item>
+                           <item>Oct:</item>
+                           <item>Sept:</item>
+                           <item>Aug:</item>
+                           <item>Iulius</item>
+                           <item>Iunius</item>
+                        </list>
+                     </p>
+                  </figure>
+                  <figure>
+                     <head>33</head>
+                     <head>In qua Parte Horizontis incipiat Aurora</head>
+                  </figure>
+                  <figure>
+                     <head>34</head>
+                     <head>Duratio Crepuſculi</head>
+                  </figure>
+                  <p n="9">9. The Dyall, whoſe title is, <hi>In qua coeli plaga exiſtat Sol,</hi> shews by the Sections of the Verticall circles,<note place="margin">FIG. 35.</note> ſee n. 7. in what part of the Heaven the Sunne is: Whether in the Eaſt or Weſt, outh Eaſt, or South Weſt, &amp;c.</p>
+                  <p n="10">10. The Dyall,<note place="margin">FIG. 36.</note> whoſe title is, <hi>Amplitudo Ortiva Solis,</hi> shews by the Conicall Sections Mentioned n. 3. how many Degrees the Sunne riſes wide of the true Eaſt poynt whether towards the North, or towards the South.</p>
+                  <p n="11">11. The Dyall,<note place="margin">FIG. 37.</note> whoſe title is, <hi>Quot Horae reſtent ad occaſum Solis,</hi> shews by the Sections of the Italians (ſee c. 2. n. 3.) Hour circles with the ſuperficies of the Dyall, How many Hours reſt till Sunne ſett.</p>
+                  <p n="12">12. The Dyall,<note place="margin">FIG. 38.</note> whoſe title is, <hi>Quota pars Diei ſit Elapſa,</hi> shews by the Sections of the Unequall (ſee ibid. n. 3.) Hour circles, what part of the Day, or ſpace from Sunne Riſing to Sunne ſetting is now ſpent, whether the third, or fourth, or fift, &amp;c.</p>
+                  <p n="13">13. The Dyall,<note place="margin">FIG. 39.</note> whoſe title is, <hi>Declinatio Solis</hi> shews by the Conicall Sections Mentioned n. 3. the Sunnes Declination: that is how many Degrees he is diſtant from the Equator.</p>
+                  <p n="14">14. The Dyall, whoſe title is, <hi>Qua Hora Sol perveniat ad verum Orientem,</hi>
+                     <note place="margin">FIG. 40.</note> shews by the ſame Conicall Sections, at what Hour the Sunne comes to be juſt Eaſt: and by conſequence, at what Hour after dinner he wilbe juſt Weſt.</p>
+                  <pb facs="tcp:96750:20"/>
+                  <figure>
+                     <head>35</head>
+                     <head>In qua Caeli Pla<g ref="char:EOLunhyphen"/>ga exiſtat Sol.</head>
+                  </figure>
+                  <figure>
+                     <head>36</head>
+                     <head>Solis Amplitu<g ref="char:EOLunhyphen"/>do ortiva</head>
+                  </figure>
+                  <figure>
+                     <head>37</head>
+                     <head>Quot Horae reſ<g ref="char:EOLunhyphen"/>tent ad oc<g ref="char:EOLunhyphen"/>caſum Solis</head>
+                  </figure>
+                  <figure>
+                     <head>38</head>
+                     <head>Quota Pars Diei ſit elapſa</head>
+                  </figure>
+                  <figure>
+                     <head>39</head>
+                     <head>Solis Declina<g ref="char:EOLunhyphen"/>tio.</head>
+                  </figure>
+                  <figure>
+                     <head>40</head>
+                     <head>Qua Hora Sol Per<g ref="char:EOLhyphen"/>veniat ad Vera orien<g ref="char:EOLhyphen"/>tem</head>
+                  </figure>
+                  <pb n="36" facs="tcp:96750:21"/>
+                  <p n="15">15. The Dyall, whoſe title is, <hi>Refractio Solis,</hi> shew by the Conicall Sections ſpoken of n. 2. the Sunnes Refraction;<note place="margin">FIG. 41.</note> that is how many minutes he appeares to be Elevated above his true height, by the bending of his rayes in paſſing through our thick Atmoſphaere.</p>
+                  <p n="16">16. The Dyall, whoſe title is, <hi>Quoties umbra contineat Cor<g ref="char:EOLhyphen"/>pus Erectum,</hi>
+                     <note place="margin">FIG. 42.</note> shews by the shade of the ſtyle falling upon the aforeſayd Conicall Sections Mentioned n. 2. how often the shadow of a body perpendicularly Erected upon à playn parallel to the Horizon contaynes the length of the ſame body.</p>
+                  <p n="17">17. The Dyall, whoſe title is, <hi>Longitudo Diei,</hi> shews by the shade of the Style falling upon the Conicall Sections ſpoken of n. 3. the length of the Day:<note place="margin">FIG. 43.</note> that is, how many Hours are bet<g ref="char:EOLhyphen"/>ween ſunne riſing and ſetting.</p>
+                  <p>Laſtly, the Dyall, whoſe title is, <hi>Quot ſint Horae Elapſae ab or<g ref="char:EOLhyphen"/>tu Solis,</hi>
+                     <note place="margin">FIG. 44.</note> shews, (by the shade of the ſtyle falling upon the Sec<g ref="char:EOLhyphen"/>tions, which are made in the ſuperficies, of the Dyall, by the playnes of thoſe circles, which divide all the parallels of the Sunnes dayly, motion into 24. Equall parts: according to what was ſayd c. 2. n. 2.) How Many Hours have paſſed ſince Sunnes Riſing.</p>
+               </div>
+               <div n="3" type="part">
+                  <head>Of the Third Globe.</head>
+                  <figure>
+                     <head>41</head>
+                     <head>Solis Refractio</head>
+                  </figure>
+                  <figure>
+                     <head>42</head>
+                     <head>Quoties Vmbra Contineat Corpꝰ erectum</head>
+                  </figure>
+                  <figure>
+                     <head>43</head>
+                     <head>Diei Longitu<g ref="char:EOLhyphen"/>do.</head>
+                  </figure>
+                  <figure>
+                     <head>44</head>
+                     <head>Quot ſint Ho<g ref="char:EOLhyphen"/>rae ab Ortu Solis</head>
+                  </figure>
+                  <figure>
+                     <head>45</head>
+                     <head>Con<g ref="char:EOLhyphen"/>ſtella<g ref="char:EOLhyphen"/>tiones Orientes</head>
+                     <p>a 10  Decembris ad 10 Iunij.</p>
+                     <p>
+                        <list>
+                           <item>Aries</item>
+                           <item>Taurus</item>
+                           <item>Orion</item>
+                           <item>Leo</item>
+                           <item>Virgo</item>
+                           <item>Serpentari</item>
+                        </list>
+                     </p>
+                  </figure>
+                  <figure>
+                     <head>46</head>
+                     <head>Con<g ref="char:EOLhyphen"/>ſtella<g ref="char:EOLhyphen"/>tiones Orientes</head>
+                     <p>a 10 Iunij ad 10 Decembris.</p>
+                     <p>
+                        <list>
+                           <item>Piſces</item>
+                           <item>Pegaſus</item>
+                           <item>Libra</item>
+                           <item>Virgo</item>
+                           <item>Leo</item>
+                           <item>Cancer</item>
+                        </list>
+                     </p>
+                  </figure>
+                  <p>Firſt therefore thoſe two Dyalls, whoſe title is, <hi>Conſtellatio<g ref="char:EOLhyphen"/>nes Orientes,</hi>
+                     <note place="margin">FIG. 45. &amp; 46.</note> shew by the shade of the ſtyle, what conſtella<g ref="char:EOLhyphen"/>tion, or company of ſtarres, begin then to riſe above the Ho<g ref="char:EOLhyphen"/>rizon: provided that you looke upon the Dyall belonging to the time of the yeare in which you are in according to what was now ſayd. The lineame<g ref="char:cmbAbbrStroke">̄</g>ts of theſe Dyalls, are the Sections, which the playne of the Ecliptike circle makes with the ſu<g ref="char:EOLhyphen"/>perficies of the Dyall, at ſuch time, as thoſe ſeverall conſtel<g ref="char:EOLhyphen"/>lations, noted upon the Dyall, begin to riſe.</p>
+                  <p n="2">2. Thoſe two, whoſe title is, <hi>Conſtellationes Occidentes,</hi> shew in like manner, what Conſtellation begins then to ſett, or goe under the Horiſon. The lineaments of theſe two Dyalls, are the Sections, which the playn of the Ecliptike circle ma<g ref="char:EOLhyphen"/>kes with the ſuperficies of the Dyall, at ſuch time, as this or that conſtellations begins to ſett.</p>
+                  <p n="3">3. Thoſe two Dyalls, whoſe title is, <hi>Conſtellationes exiſtentes in Meridie,</hi> shew what Conſtellation begins to paſſe the Me<g ref="char:EOLhyphen"/>ridian circle, or full South. Which is heere performed by the Sections, which the playne of the Ecliptike circle ma<g ref="char:EOLhyphen"/>kes with the ſuperficies of the Dyall, when the ſeverall Conſtellations there noted, begin to paſſe the Meridian circle.</p>
+                  <p n="4">4. Thoſe two, whoſe title is, <hi>Conſtellationes existentes in ipſo
+<pb n="39" facs="tcp:96750:22"/>Oriente,</hi> shew what Conſtellations ſtand juſt Eaſt, whether it be in the Horizon, or elevated above the ſame. Which they performe by thoſe Sections, which the playne of the Ecliptike makes with the playne of the Dyall, when Such Conſtellations, as are there noted, doe paſſe the Eaſt circle, or firſt Verticall.</p>
+                  <p n="3">3. Thoſe who, whoſe title is, <hi>Conſtellationes exiſtentes in ipſo Occidente,</hi> shew on the contrary what Conſtellations ſtands juſt Weſt. Which is done by the like Sections made by the Eclip<g ref="char:EOLhyphen"/>tike, when thoſe Conſtellations begin to paſſe the true Weſt.</p>
+                  <p n="6">6. Thoſe two Dyalls, whoſe title is, <hi>Conſtellationes existen<g ref="char:EOLhyphen"/>tes ſupra Caput,</hi> shew what Conſtellation ſtands, over your Head. Which is alſo done by the à fore ſayd Sections, made when the Conſtellations there noted, paſſe the Zenith, or verticall poynt.</p>
+                  <p>Now theſe 12. Dyalls being all made (as is ſayd) by the Sec<g ref="char:EOLhyphen"/>tions of the Eccliptike with the ſuperficies of the Dyall: it will be ſufficient to give heere à Diagramme of the two firſt.</p>
+                  <p>But becauſe theſe 2. Dyalls shew only what ſituation the ſtarres, have in the Day time, when the ſtarres cannot be ſeen, unleſſe there should happen à totall Eclipſe of the Sunne: the<g ref="char:EOLhyphen"/>re are therefore deſcribed on the ſame Globe 6. other Dyalls, shewing what ſituation the ſtarrs will have at 8. à clock at night; à time proper, to behold them and ſee the truth of the Dyall.</p>
+                  <pb n="40" facs="tcp:96750:23"/>
+                  <p>Wherefore 7<hi rend="sup">o</hi>. Thoſe two Dyalls, whoſe title is, <hi>Constel<g ref="char:EOLhyphen"/>lationes exiſtentes in Oriente Horâ octavâ Veſpertinâ,</hi>
+                     <note place="margin">FIG. 47. &amp; 48.</note> shew what Conſtellation will ſtand juſt Eaſtward at 8. à clock at night. Which is heere performed, by the Sections, which the ſuperficies of the Dyall makes with thoſe cones, whoſe baſes are parallel to the Equator, and whoſe common vertex is the top of the ſtyle. Or center of the Earth.</p>
+                  <p n="8">8. Thoſe two, whoſe title is, <hi>Conſtellationes existentes in Oc<g ref="char:EOLhyphen"/>cidente Horâ octavâ Veſpertinâ,</hi> shew by the now named ſections, what Conſtellation will be juſt Weſtward, at 8. à clock in the Evening.</p>
+                  <p>Laſtly thoſe, two, whoſe title is, <hi>Conſtellationes exiſtentes in Meridie Horâ octavâ Veſpertinâ,</hi> shew by the ſections, which their ſuperficies make with there aforeſayd Cones, what Con<g ref="char:EOLhyphen"/>ſtellation, at 8. à clock at night, will be juſt South. And theſe 6. Dyalls being all made by the Sections of the ſame Co<g ref="char:EOLhyphen"/>nes, it will ſuffiſe to place heere the Diagramme of the two firſt. And thus much of the Third Globe.</p>
+               </div>
+               <div n="4" type="part">
+                  <head>Of the fourth Globe.</head>
+                  <p>THe fourth and laſt Globe, whoſe title is, <hi>Horologium Aſtro<g ref="char:EOLhyphen"/>nomicum,</hi> is alſo cutt into 20. Triangles equalland Equi<g ref="char:EOLhyphen"/>laterall, juſt like the precedent. The Dyalls deſcribed on theſe Triangles, belong to Aſtrology: and are placed heere for thoſe who are delighted with ſuch conjecturall uncertayntyes. The<g ref="char:EOLhyphen"/>ſe Dyalls are as followeth.</p>
+                  <figure>
+                     <head>47</head>
+                     <head>Con<g ref="char:EOLunhyphen"/>ſtellati<g ref="char:EOLunhyphen"/>ones in Ori<g ref="char:EOLunhyphen"/>ente Hora 8<hi rend="sup">ua</hi> Veſpert:</head>
+                     <p>a 10 Decembris ad 10 Iunij</p>
+                     <p>
+                        <list>
+                           <item>Cancer</item>
+                           <item>Leo</item>
+                           <item>Virgo</item>
+                           <item>Bootes</item>
+                        </list>
+                     </p>
+                  </figure>
+                  <figure>
+                     <head>48</head>
+                     <head>Con<g ref="char:EOLunhyphen"/>ſtella<g ref="char:EOLunhyphen"/>tiones in Oriente Hora 8<hi rend="sup">ua</hi> Veſp:</head>
+                     <p>a 10 Iunij ad 10 Dece </p>
+                     <p>
+                        <list>
+                           <item>Perſeus</item>
+                           <item>Andromeda</item>
+                           <item>Cygnus</item>
+                           <item>Lyra</item>
+                        </list>
+                     </p>
+                  </figure>
+                  <figure>
+                     <head>49</head>
+                     <head>Domus Aſtrologi<g ref="char:EOLunhyphen"/>ca Solis</head>
+                     <p>
+                        <list>
+                           <item>Domus 7<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                              <hi rend="sup">a</hi>
+                           </item>
+                           <item>Domus <gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                              <hi rend="sup">ua</hi>
+                           </item>
+                           <item>Domus 9<hi rend="sup">na</hi>
+                           </item>
+                           <item>Domus 10<hi rend="sup">ma</hi>
+                           </item>
+                           <item>Domus 11<hi rend="sup">ma</hi>
+                           </item>
+                        </list>
+                     </p>
+                  </figure>
+                  <figure>
+                     <head>50</head>
+                     <head>Signum Horoſco<g ref="char:EOLhyphen"/>pans</head>
+                     <p>a 10 Decembris ad 10 Iunij</p>
+                     <p>
+                        <list>
+                           <item>♓</item>
+                           <item>♈</item>
+                           <item>♉</item>
+                           <item>♊</item>
+                           <item>♋</item>
+                           <item>♌</item>
+                           <item>♍</item>
+                           <item>♎</item>
+                           <item>♏</item>
+                           <item>♐</item>
+                           <item>♑</item>
+                        </list>
+                     </p>
+                  </figure>
+                  <figure>
+                     <head>51</head>
+                     <head>Signum Horoſco<g ref="char:EOLhyphen"/>pans</head>
+                     <p>a 10 Iunij ad 10 Decembris </p>
+                     <p>
+                        <list>
+                           <item>♒</item>
+                           <item>♑</item>
+                           <item>♐</item>
+                           <item>♏</item>
+                           <item>♎</item>
+                           <item>♊</item>
+                           <item>♉</item>
+                           <item>♈</item>
+                           <item>♓</item>
+                        </list>
+                     </p>
+                  </figure>
+                  <p n="2">2. Thoſe two Dyalls,<note place="margin">FIG. 50. &amp; 51.</note> whoſe title is, <hi>Signum Horoſcopans,</hi> shew the Horoſcopon (as Aſtrologers terme it) that is which of the 12. ſignes doe begin to riſe above the Horizon. Which is heere performed by the Sections, which the playne of the Ecliptike makes at the time they begin to riſe, with the ſuper<g ref="char:EOLhyphen"/>ficies of the Dyall.</p>
+                  <p n="3">3. Thoſe, whoſe title is, <hi>Signum Culminans</hi> shew by the like ſections of the Ecliptike with the ſuperficies of the Dyall, what Signe, of the Zodiack is in the Meridian, or full South. Whe<g ref="char:EOLhyphen"/>refore theſe 4. Dyalls being made by the ſame ſections, it ſuffiſes alſo to put à Diagram only of the two firſt.</p>
+                  <p n="4">4. Thoſe Dyalls, which heere ſerve for the ſeverall dayes of the weeke shew what Planet raignes, according to the opi<g ref="char:EOLhyphen"/>nion of auncient Aſtrologers, Every Hour of that Day. Soe the Dyall,<note place="margin">FIG. 52. FIG. 53.</note> whoſe title is, <hi>Dominatur die Lunae,</hi> shews what Planet raignes at any time of the Day on Munday. And in the ſame Manner, the Dyall, whoſe title is, <hi>Dominatur die Mar<g ref="char:EOLhyphen"/>tis</hi> shews what Planet raignes at any time on Tuesday. And ſoe of the reſt. The lineaments of theſe Dyalls, being all alike, to witt the ſections, which the playnes of the Unequall Hour cir<g ref="char:EOLhyphen"/>cles make with the ſuperficies of the Dyall; it will be ſufficient alſo to put heere the Diagrams of the two firſt.</p>
+                  <p n="5">5. Thoſe two Dyalls, whoſe title is, <hi>Conjunctio Solis cum Stellis Fixis,</hi>
+                     <note place="margin">FIG. 54. &amp; 55.</note> shew with which of the more remarkeable fixed ſtarres the Sunne is in conjunction; or under the ſame circle of longitude.</p>
+                  <figure>
+                     <head>52</head>
+                     <head>Die Lunae Dominatur</head>
+                     <p>
+                        <list>
+                           <item>Saturnus</item>
+                           <item>Iupiter</item>
+                           <item>Mars</item>
+                           <item>Sol</item>
+                           <item>Venus</item>
+                        </list>
+                     </p>
+                  </figure>
+                  <figure>
+                     <head>53</head>
+                     <head>Die Martis Dominatur</head>
+                     <p>
+                        <list>
+                           <item>Sol</item>
+                           <item>Venus</item>
+                           <item>Mercuri</item>
+                           <item>Luna</item>
+                           <item>Saturnus</item>
+                        </list>
+                     </p>
+                  </figure>
+                  <figure>
+                     <head>54</head>
+                     <head>Con<g ref="char:EOLunhyphen"/>iunctio Solis Cum Stellis Fixis</head>
+                     <p>
+                        <list>
+                           <item>Cum L<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>orſo ♑</item>
+                           <item>Cum Fe<g ref="char:EOLunhyphen"/>more ♒</item>
+                           <item>Cum Cauda ♓ auſt</item>
+                           <item>Cum Corna ♈</item>
+                           <item>Cum Cauda ♈</item>
+                           <item>Cum Oculo ♉</item>
+                           <item>Cum Cornu dex ♉</item>
+                        </list>
+                     </p>
+                  </figure>
+                  <figure>
+                     <head>55</head>
+                     <head>Con<g ref="char:EOLunhyphen"/>iunctio Solis Cum Stellis Fixis</head>
+                     <p>
+                        <list>
+                           <item>Cum Fro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>te ♏</item>
+                           <item>Cum La<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>nce auſt</item>
+                           <item>Cum Spica ♍</item>
+                           <item>Cum Alaſin ♍</item>
+                           <item>Cum Corde ♌</item>
+                           <item>Cum Aſellis</item>
+                        </list>
+                     </p>
+                  </figure>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>THE SIXTH CHAPTER.</hi> Of the Dyalls deſcribed on the Edge of the ſe<g ref="char:EOLhyphen"/>cond Peece.</head>
+               <p n="1">1.<seg rend="decorInit">T</seg>Hoſe Dyalls, which deſcribed on the Edge of this Table,<note place="margin">FIG. 56, &amp; 57.</note> have for title, <hi>Stellae Orientes Coſmicè,</hi> shew what ſtarre roſe Coſmically, (that is to ſay, roſe at the ſame time when the Sunne roſe) on the Day you looke upon the Dyall: provided you looke upon the Dyall belonging to the time of the yeare: heere being two Dyalls of the ſame Sort, one for the one half of the yeare, and another for the other half.</p>
+               <p n="2">2. Thoſe Dyalls, whoſe title is, <hi>Stellae Orientes Acronicè,</hi> shew what ſtarre will riſe Acronically; that is, will riſe juſt at Sunne ſetting. Where alſo care is to be had, that you looke upon the Dyall agreable to the time of the yeare.</p>
+               <figure>
+                  <head>56</head>
+                  <head>Stellae Orientes Coſmice.</head>
+                  <p>a 10 Decemb: ad 10 Iun:</p>
+                  <p>
+                     <list>
+                        <item>Ala Pegaſi</item>
+                        <item>Triangulum</item>
+                        <item>Pesſin ♑</item>
+                        <item>Cornu ♈</item>
+                        <item>Pesſin Aurigae</item>
+                        <item>oculus ♉</item>
+                     </list>
+                  </p>
+               </figure>
+               <figure>
+                  <head>57</head>
+                  <head>Stella Orientes Coſmice</head>
+                  <p>a 10 Iunij ad 10 Decemb:</p>
+                  <p>
+                     <list>
+                        <item>Sagitta</item>
+                        <item>Spica ♍</item>
+                        <item>Arcturus</item>
+                        <item>Cauda ♌</item>
+                        <item>Sirius</item>
+                        <item>Canicula</item>
+                     </list>
+                  </p>
+               </figure>
+               <figure>
+                  <head>58</head>
+                  <head>Per Horas Sine Stylo</head>
+               </figure>
+               <figure>
+                  <head>59</head>
+                  <head>Per Stylum ſine Horis</head>
+               </figure>
+               <p>Now the lineaments of theſe Dyalls being all of the ſame ſort: to witt ſuch Conicall ſections, as the playne, of the Dyall makes with thoſe Cones, whoſe baſes are parallel to the Equator; and whoſe common vertex is at the top of the ſtyle, that is at the middle of the little paynted ſtarre, which heere in Each Dyall repreſents the ſtyle: This I ſay being ſoe it will ſuffi<g ref="char:EOLhyphen"/>ſe to place heere two Diagrams of the firſt ſort.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>THE SEAVENTH CHAPTER.</hi> Of the 8. Reflecting Dyalls placed on the top of the ſecond Table.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He reaſon why theſe Dyalls placed upon the ſecond Table were made by reflexion of looking glaſſes, was not ſoe much for varie<g ref="char:EOLhyphen"/>ty as for neceſſity. For the Table Standing high, the Dyalls placed on the upper part thereof, could not have been ſeen, but by being reflected on the bottome or inclining playnes of the great Globe, which ſtands (as in ſayd in the firſt Chapter) upon this ſecond Table. Whereas now being re<g ref="char:EOLhyphen"/>flected they are wery well ſeen upon the ſayd bottome, togea<g ref="char:EOLhyphen"/>ther with their titles, as followeth.</p>
+               <p n="1">1. The Dyalls,<note place="margin">FIG. 58.</note> whoſe title is, <hi>Per Horas ſine ſtylo,</hi> hath its Hour-lines deſcribed and viſible on the bottome of the à fore ſayd Globe; but by the ſtyle which is à Flower de luce, being paynted upon à looking, glaſſe placed on the Table, appeares not: but only the shadow thereof appeares: which being
+<pb n="47" facs="tcp:96750:26"/>reflected upon the ſayd Hour-lines drawn on the bottome of the Globe, shews the Hour: according to the verſe there ad<g ref="char:EOLhyphen"/>joyned. <hi>En Horas! ſtylus à lucenti Sole petendus.</hi> Theſe Hourlines being noe other then the ſections which the playnes of the or<g ref="char:EOLhyphen"/>dinary Hour circles, croſſing Each other upon the top of the ſayd Flower de luce, make with the playn of the Dyall, there needs ſay noe more but that it is à Reflex Dyall, ſuppoſing all<g ref="char:EOLhyphen"/>wayes the Sunne as much depreſſed under the Horizon, as it is defacto Elevated above it.</p>
+               <p n="2">2. The Dyall, whoſe title on the contrary is,<note place="margin">FIG. 59.</note> 
+                  <hi>Per ſtylum ſine Horis,</hi> hath its ſtyle (which is à Lions paw) paynted upon the bottome of the Globe: and therefore eaſy to be ſeen: but the Hour-lines being drawn upon à looking glaſſe placed upon the Table, appeare not: only their shadow reflected upon the ſayd Lions paw shew the Hour: according to what the verſe there intimates, <hi>Da mihi Phoebe Horas: Horam<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tibi ungue notabo.</hi> This Dyall being only the former inversd, according to what was ſayd of the like inverſion in the ſecond Chapter, there needs adde noe more. As alſo neyther is it needfull to ſay any more of the other, which there in the ſelf ſame manner shews the Hour by the Hour-lines reflected upon the end of an Unicornes Horne: according to the verſe: <hi>Sol mihi luce dat Ho<g ref="char:EOLhyphen"/>ras, Horam do tibi Cornu.</hi>
+               </p>
+               <p n="3">3. In the Dyall, whoſe title is, <hi>Sine Horis vel ſtylo,</hi> appeare neyther Hour-lines nor ſtyle, unleſſe the Sunne shine: for then you ſee them both: that is you ſee the shadow of both ſtyle and Hour-lines reflected from the looking glaſſe upon which the ſayd Hour-lines are drawn. This Dyall differing nothing from an ordinary Reclining Dyall Declining we need ſay noe more thereof: as neyther of the other 4. which alſo differ noe otherwiſe from ordinary Dyall, then that they are not to be otherwiſe ſeene then each of them in à looking glaſſe placed
+<pb n="48" facs="tcp:96750:27"/>on the bottome of the great Globe. Wherefore it will ſuffiſe to place the Diagrams of the two firſt.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>
+                  <hi>THE EIGHTH CHAPTER.</hi> Of the 4. Dyalls ſupported by the 4. Branches of the ſecond Peece.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Heſe 4. Dyalls are drawn Each of them u<g ref="char:EOLhyphen"/>pon à glaſſe Boule of about 5. Inches dia<g ref="char:EOLhyphen"/>mether: and shew the uſuall Hour, by 4. different wayes. Viz. by à shade without any ſtyle: by à ſtyle without any shade: by à ſtyle and shade: and without eyther ſtyle or shade.</p>
+               <p n="1">1. The Dyall,<note place="margin">FIG. 60.</note> whoſe title is, <hi>Per ſtylum ſine umbra,</hi> shews the Hour by moving the ſtyle, (which heere is à Flower de lu<g ref="char:EOLhyphen"/>ce fixed on à moveable Aequator) to and fro till it caſt noe shade upon the Boule: which being done, the Hour ſought for shall ſtand juſt under the ſtyle; as the verſe there added declares: <hi>Nulla ſit umbra ſtylo: Veram stylus indicat Horam.</hi> Now the reaſon, why the ſtyle caſting noe shade on the Boule, ſtands over the true Hour, is, that theſe Hours lying all in the ſections, which the playnes of the Hour circles make in the ſuperficies of the Boule, it is neceſ<g ref="char:EOLhyphen"/>ſary, that then the top of the ſtyle be in the playne of the ſame Hour circle, in which at that time is alſo the center of the Sunne.</p>
+               <figure>
+                  <head>60</head>
+                  <head>Per Stylum Sine Vmbra</head>
+               </figure>
+               <figure>
+                  <head>61</head>
+                  <head>Per Vmbram ſine Stylo</head>
+               </figure>
+               <figure>
+                  <head>62</head>
+                  <head>Per Stylum &amp;. Vmbra</head>
+               </figure>
+               <figure>
+                  <head>63</head>
+                  <head>Sine Stylo Vel Vmbra</head>
+               </figure>
+               <p n="3">3. The Dyall,<note place="margin">FIG. 62.</note> whoſe title is, <hi>Per ſtylum &amp; umbram,</hi> shews the Hour by the shade of à ſtyle perpendicularly Erected upon the ſuperficies of the Boule and therefore differs no<g ref="char:EOLhyphen"/>thing from an ordinary Dyall deſcribed on the convex ſuper<g ref="char:EOLhyphen"/>ficies of à Globe; There are three Such Dyalls placed upon this Boul, to the End, that when the shade of the ſtyle ceaſes, by reaſon of the convexity of the Boule, to shew the Hour in one, may shew it in another.</p>
+               <p>Laſtly the Boule,<note place="margin">FIG. 63.</note> whoſe title is, <hi>Sine ſtylo vel umbra,</hi> shews the Hour without Eyther ſtyle or shadow: for yf you pla<g ref="char:EOLhyphen"/>ce your ſelf ſoe as to behold your face in the Middle of the little convex looking glaſſe which is there paced on the South pole of the Boule, you shall at the ſame time, if the Sunne shine, behold the picture thereof at the true Hour: according to the verſe, there adjoyned: <hi>Spectanti Specu<g ref="char:EOLhyphen"/>lum, Horam dat tibi Solis imago.</hi> The reaſon whereof is, that the Eye when placed, as is ſayd, being in the Axis of the World: and by conſequence, in the playne of all the Hour circles, and therefore in the playne of the true Hour circle: in which playn alſo the center of the Sunne being neceſſaryly placed, it followes that the ſayd picture
+<pb n="51" facs="tcp:96750:28"/>of the Sunne appeare at the true Hour: ſince by the Ru<g ref="char:EOLhyphen"/>les of Beflexion, the Eye ſeeing and the poynt ſeen, are in the ſame playn with the poynt of the Reflexion.</p>
+               <p>As for the Hour-lines of theſe 4. Dyalls, they are noe other then the ſections or ſome poynt of them, which the playnes of the Hour circles makes in the ſuperficies of the Boules. Which playnes in the firſt, ſecond and fourth, croſſe Each other in the eenter of the Boule: but in the third, they Croſſe one another at the top of the ſtyle.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>
+                  <hi>THE NINTH CHAPTER.</hi> Of the Dyalls deſcribed on the great Globe which ſtands on the ſecond Table.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>His Globe having 8. Reclining Playnes. 8. Inclining, and 8. Upright playnes: The Dyalls deſcribed on them are as follo<g ref="char:EOLhyphen"/>weth.</p>
+               <p n="1">1. Six of the 8. Upright playnes being made hollow like thoſe 20. on the Edge of the firſt Table, are covered alſo with glaſſe, and Dyalls deſcribed on them, juſt like thoſe 20. the diffe<g ref="char:EOLhyphen"/>rence only being, that heere the bottomes are alſo cove<g ref="char:EOLhyphen"/>red with glaſſes thinnely paynted over with white coulour, to the End the Dyalls may be ſeen as well within the Glo<g ref="char:EOLhyphen"/>be, as without: To which purpoſe, two of theſe upright playnes, looking towards the North, are covered only with cleare glaſſe, as Serving for windows to look into the Globe. On the ſayd bottome glaſſes, are drawn ſeve<g ref="char:EOLhyphen"/>rall
+<pb n="52" facs="tcp:96750:29"/>pictures, as of their Majeſtyes; the Queen Mother; the Duke of York. Prince Rupert, &amp;c. In his Ma<g ref="char:EOLhyphen"/>jeſtyes picture the Hour is shewne by the shade of the Hour-lines paſſing over the top of the Scepter: In the pictures of the two Queens, it is shewn by the like shade paſſing over the top of à Flower: and in the other three, by paſ<g ref="char:EOLhyphen"/>ſing over the end of à troncheon, which each of them hold in their hands. Under each picture is written à Chrono<g ref="char:EOLhyphen"/>graph for the yeare 1669. in which the Dyall was ſett up: and Sutable to the perſon. Which Chronographs, according to the order now named, are as falloweth.</p>
+               <list>
+                  <item>1. Regnet DIV CaroLVs IMperetqVe BrItannIs.</item>
+                  <item>2. FaXIt RegIna Det RegI RegnoVe ProLeM CatharIna.</item>
+                  <item>3. RegIna Mater nato sIbI CaroLo DIV frVatVr.</item>
+                  <item>4. IaCobVs &amp; RegIs frater, &amp; InsIgnIs BrIta<g ref="char:cmbAbbrStroke">̄</g>nIę ADMIraLIVs.</item>
+                  <item>5. FILIVs seCVnDVs RegIs BoheMIae.</item>
+               </list>
+               <p>Theſe 6. Verticall Dyalls being all alike it will ſuffiſe to place heere the Diagrams of the two firſt.<note place="margin">FIG. 64. &amp; 65.</note>
+               </p>
+               <figure>
+                  <head>64</head>
+                  <head>Regnet DIV CaroLVs IMperetqVe BrItannIs</head>
+               </figure>
+               <figure>
+                  <head>65</head>
+                  <head>FaXIt RegIna Det RegI RegnoqVe proLeM Catha<g ref="char:EOLhyphen"/>rIna</head>
+               </figure>
+            </div>
+            <div n="10" type="chapter">
+               <head>
+                  <hi>THE TENTH CHAPTER.</hi> Of the 4. glaſſe Boules ſupported by the fowre Bran<g ref="char:EOLhyphen"/>ches of the great Globe.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ut of the top of the great Globe yſſue (as was ſayd in the firſt Chapter) fowre Bran<g ref="char:EOLhyphen"/>ches each bearing à glaſſe Boule like thoſe of the firſt and ſecond Peece: but ſomewhat leſſe in proportion to the Pyramis. Theſe 4. Boules are guilded over except where the Hour lines are drawn: which is thinnly paynted over with white coulour: to the end the Sunne beames paſſinge through à little ſtarre left cleare on the top of the Boule, and making the like ſtarre of light upon the Hour lines may be ſeen to note the Hour. Theſe Dyalls shew the Hour according to the different wayes of numbring the Hours, uſed by ſeverall Na<g ref="char:EOLhyphen"/>tions, as was ſayd in the ſecond Chapter.</p>
+               <p n="1">1. The Dyall,<note place="margin">FIG. 66.</note> whoſe title is, <hi>Per Horas Italicas,</hi> shews by the ſayd luminous ſtarre paſſing over the Hour-lines, what Hour it is to be ſayd according to the Italian account, which numbers from Sunne ſett to Sunne ſett 24. Hours. Theſe Hour-lines are the ſections, which the playnes of the Italian Hour circles croſ<g ref="char:EOLhyphen"/>ſing Each other in the middle of the ſayd ſtarre placed on the top of the Boule, make in the ſuperficies thereof.</p>
+               <pb facs="tcp:96750:30"/>
+               <figure>
+                  <head>66</head>
+                  <head>Per Horas Ita<g ref="char:EOLunhyphen"/>licus</head>
+               </figure>
+               <figure>
+                  <head>67</head>
+                  <head>Per Horas Ba<g ref="char:EOLunhyphen"/>bylonica</head>
+               </figure>
+               <figure>
+                  <head>68</head>
+                  <head>Per Horas Aſt<g ref="char:EOLhyphen"/>ronomicas</head>
+               </figure>
+               <figure>
+                  <head>69</head>
+                  <head>Per Horas An<g ref="char:EOLhyphen"/>tiquas</head>
+               </figure>
+               <pb n="56" facs="tcp:96750:31"/>
+               <p n="2">2. The Dyalls, whoſe title is, <hi>Per Horas Babylonicas,</hi> shews in like manner, what Hour it is according to the Babylonians way of reckoning,<note place="margin">FIG. 67.</note> who count 24. Hours from Sunne Ri<g ref="char:EOLhyphen"/>ſing tille next Sunne Riſing. Which it performs by the ſe<g ref="char:EOLhyphen"/>ctions which the playnes of the Babylonian Hour circles croſ<g ref="char:EOLhyphen"/>ſing Each other in the middle of the ſayd ſtarre, make in the ſuperficies of the Boule.</p>
+               <p n="3">3. The Dyall, whoſe title is, <hi>Per Horas Aſtronomicas,</hi> shews by the like ſtarre,<note place="margin">FIG. 68.</note> the Hour according to the Aſtronomicall ac<g ref="char:EOLhyphen"/>count, which numbers, 24. Hours from Noon till next Noon. This Dyall is made by the like ſections of the uſuall Hours cir<g ref="char:EOLhyphen"/>cles croſſing Each other in the middle of the ſayd ſtarre: The numbers ſett to the Hours being only different: that is, one à clock in the morning is heere called 13. and two, 14. three à clock, is called 15. &amp;c.</p>
+               <p>Laſtly the Dyall, whoſe title is, <hi>Per Horas Antiquas, ſive Judaicas,</hi>
+                  <note place="margin">FIG. 69.</note> shews the Hour according to the Ancient way of numbring the Hours: Viz. counting allwayes 12. Hours from Sunne Riſing till the ſetting thereof. Wherefore the ſections by which this Dyall is made, are thoſe which the playns of the unequall Hour circles make in the ſuperficies of the Bou<g ref="char:EOLhyphen"/>le: which playns alſo croſſe each other in the middle of the ſtar<g ref="char:EOLhyphen"/>re, or ſtyle of the Dyall. And thus much of the Third peece, with the Branches belonging to it. The Diagrams of theſe 4. Boules are as followeth.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="57" facs="tcp:96750:31"/>
+               <head>
+                  <hi>THE ELEVENTH CHAPTER.</hi> Of the three Vppermost Peece of the Pyramis.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Dyalls belonging to the three lower Peeces of the Pyramys, being Explicated in the precedent Chapters, we will now in this Chapter Explicate the reſt, that is, the Dyalls appertayning to the three higheſt, or uppermoſt part thereof.</p>
+               <p>The fourth Peece, therefore, conſiſting, (is is ſayd in the firſt Chapter) of 12. Concave Semicylinders, and Standing upon the Great Globe held up by 4. Supporters,<note place="margin">FIG. 70.</note> like thoſe which hold up the ſecond Peece, but leſſe: hath upon Each of thoſe Semicylinders à Dyall deſcribed shewing the uſuall Hour by the shade of à Flower de luce fixed at the top of the Se<g ref="char:EOLhyphen"/>micylinder. Out of the top of this Peece yſſue 4. Branches car<g ref="char:EOLhyphen"/>rying Each à little glaſſe Boul, shewing alſo the uſuall Hour by the light of the Sunne penetrating through the Hour-lines (which for that purpoſe are left tranſparent, the reſt of the Boul being guilded over) and paſſing over à little ſtarre payn<g ref="char:EOLhyphen"/>ted on the lower part of the Boul.</p>
+               <p>The firſt Peece,<note place="margin">FIG. 71.</note> conſiſting of 8. playn Triangles Equall and Equilaterall: and ſix Equall Squares and held up alſo by 4. Supporters, hath in like manner Dyalls deſcribed thereon she<g ref="char:EOLhyphen"/>wing the uſuall Hour by the shade alſo of à Flower de luce.</p>
+               <figure>
+                  <head>70</head>
+               </figure>
+               <figure>
+                  <head>71</head>
+               </figure>
+               <figure>
+                  <head>72</head>
+               </figure>
+               <figure>
+                  <head>73</head>
+               </figure>
+               <p>As for the reaſon of theſe Dyalls, they all shewing only the uſuall Hour, there needs ſay noe more,<note place="margin">FIG<g ref="char:punc">▪</g> 37.</note> then what hath already been ſayd of the like, Viz. that in the 4<hi rend="sup">th</hi>. and 5<hi rend="sup">th</hi>. peece, the playnes of the Hour circles Croſſe each other upon the top of the Flower de luce: but in the 6<hi rend="sup">th</hi>. they Croſſe on the center of the little Ball placed in the mid<g ref="char:EOLhyphen"/>dle of the great Boule. The Dyalls of the 4. little Boules ſupported by the branches, are noe other then the Aſtro<g ref="char:EOLhyphen"/>nomicall Dyall of the precedent Chapter inverted, and only differre in the numbers ſett to the Hours. And thus much concerning what in this Short Tract was intented, to witt the uſe and reaſon of the Dyalls deſcribed on the ſayd Py<g ref="char:EOLhyphen"/>ramis.</p>
+               <trailer>END.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div xml:lang="lat" type="approbation">
+            <pb facs="tcp:96750:33"/>
+            <p>GEORGIUS GRAIUS SOCIETATIS JESU, Provinciae Anglicanae Praepoſitus Provincialis. CUm P. FRANCISCI LINI, Societatis noſtrae Explicationem Horologii erecti in Horto Regio anno 1669. tam Latinè, quàm Anglicè ſcriptam tres ejuſdem Societatis Theologi, quibus id com<g ref="char:EOLhyphen"/>miſſum fuit, recognoverint, atque in lucem edi poſſe probaverint, poteſtate acceptâ ab Admodum Reverendo P. noſtro Joanne Oliva ejuſdem Societatis Praepoſito Generali, Facultatem concedimus, ut typis mandetur, ſi ita iis ad quos pertinet videbitur.</p>
+            <closer>
+               <dateline>In quorum fidem has litteras manu noſtrâ ſubſcriptas, &amp; Sigillo noſtro munitas, dedimus Londini <date>24. Martii 1673.</date>
+               </dateline>
+               <signed>GEORGIUS GRAIUS.</signed>
+            </closer>
+         </div>
+         <div xml:lang="lat" type="imprimatur">
+            <head>PERMISSIO.</head>
+            <p>PErmittimus ut explicatio Horologii erecti in Horto Re<g ref="char:EOLhyphen"/>gio anno 1669. per Patrem FRANCISCUM LINUM, So<g ref="char:EOLhyphen"/>cietatis JESU ſcripta, tam Latinè quàm Anglicè, typis detur.</p>
+            <closer>
+               <dateline>Leodii <date>9. Aprilis 1673.</date>
+               </dateline>
+               <signed>JO. ERNESTUS BARO DE SURLET, Vicarius Generalis Leodienſis.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>Pag.</hi> 1. <hi>l.</hi> 4. Majeſtey. Majeſtyes. <hi>p.</hi> 1. <hi>l.</hi> 7. Majeſtey. Majeſtyes. <hi>p.</hi> 4. <hi>l.</hi> 10. Hout. Hour. <hi>p.</hi> 11. <hi>l.</hi> 15. darkores. darknes. <hi>p.</hi> 16. <hi>l.</hi> 16. thes hade. the shade. <hi>p.</hi> 16. <hi>l.</hi> 26. little. title. <hi>p.</hi> 18. <hi>l.</hi> 14. hof. of. <hi>p.</hi> 22. <hi>l.</hi> 13. circles. circle. <hi>p.</hi> 22. <hi>l.</hi> 22. madd on te<g ref="char:punc">▪</g> made on the. <hi>p.</hi> 25. <hi>l.</hi> 19. or. of. <hi>p.</hi> 30. <hi>l.</hi> 4. ſoutb. ſouth. <hi>p.</hi> 32. <hi>l.</hi> 7. to other. to the other. <hi>p.</hi> 34. <hi>l.</hi> 7. outh. ſouth. <hi>p.</hi> 38. <hi>l.</hi> 6. ſunde. Sunnes. <hi>p.</hi> 40. <hi>l.</hi> 14. there. the. <hi>p.</hi> 40. <hi>l.</hi> 20. <hi>Aſtronomicum. Aſtrologicum. p.</hi> 48. l. 8. diamether. diameter.</p>
+            <pb facs="tcp:96750:33"/>
+         </div>
+      </back>
+   </text>
+</TEI>
